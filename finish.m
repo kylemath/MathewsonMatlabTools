@@ -1,0 +1,1 @@
+setpref('user','lwd',pwd);
